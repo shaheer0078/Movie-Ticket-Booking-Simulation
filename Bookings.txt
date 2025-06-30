@@ -1,0 +1,2 @@
+Name: shaheer, Movie: Sinners , Time: 6:15 PM, Seat: 3-2, Price: 1200PKR
+Name: Saqib, Movie: Sinners , Time: 6:15 PM, Seat: 2-3, Price: 1200PKR
